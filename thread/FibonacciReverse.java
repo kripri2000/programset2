@@ -1,6 +1,6 @@
 package thread;
-import thread.FibonacciThread; 
-import thread.ReverseThread;
+//import thread.FibonacciThread; 
+//import thread.ReverseThread;
 
 
 public class FibonacciReverse{
